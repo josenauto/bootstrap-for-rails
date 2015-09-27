@@ -24,3 +24,9 @@ h1 {
   text-align: center;
   color: #5093c2;
 }
+
+table {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+}
